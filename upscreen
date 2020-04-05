@@ -4,17 +4,15 @@
 http://Bienvenido a  ntv.V3.0__StAy_HoMe_StAy_SaFe__.mp4
 
 
-#EXTINF:0,N testMKV
-http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
-#EXTINF:0,A testMP4
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-
-
-
-#EXTINF:-1,H testmx
+#EXTINF:-1,A testmx
 http://rt.api.visionip.tv/live/ASHTTP/RT_en_Espanol-MB/playlist.m3u8
-#EXTINF:-1,U testUsa
+#EXTINF:-1,h testUsa
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 
-#EXTINF:-1,M testUk
+#EXTINF:-1,U testUk
 http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index2500.m3u8
+#EXTINF:0,m testMKV
+http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
+#EXTINF:0,1 testMP4
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
