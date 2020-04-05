@@ -3,19 +3,18 @@
 #EXTINF:-1 ,tvg-logo="" group-title="¤<↓→:.:ntv:.:←↓>¤",ntv_V3.0
 http://Bienvenido a  ntv.V3.0__StAy_HoMe_StAy_SaFe__.mp4
 
-#EXTINF:0 group-title="Videos",Youtube
-https://www.youtube.com/watch?v=LXb3EKWsInQ
-#EXTINF:0,MKV
+
+#EXTINF:0,N testMKV
 http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
-#EXTINF:0,MP4
+#EXTINF:0,A testMP4
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
 
 
-#EXTINF:-1,NtvRt
+#EXTINF:-1,H testmx
 http://rt.api.visionip.tv/live/ASHTTP/RT_en_Espanol-MB/playlist.m3u8
-#EXTINF:-1,NtvRtUsa
+#EXTINF:-1,U testUsa
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 
-#EXTINF:-1,NtvRtUk
+#EXTINF:-1,M testUk
 http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index2500.m3u8
